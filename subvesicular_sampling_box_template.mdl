@@ -1,14 +1,11 @@
 /*template for boxes that sample calcium directly under vesicles*/
 
 sampling_box BOX {
-CORNERS = [ -0.498637, -0.0822037, -0.0877039 ],[ -0.458637, -0.0222037, -0.0477039 ]
-
-DEFINE_SURFACE_REGIONS {
-
-   sampling_box {
-     ELEMENT_LIST = [ALL_ELEMENTS]
-     SURFACE_CLASS = transparent_to_all_diffusing_molecules
+  CORNERS = [ -0.498637, -0.0822037, -0.0877039 ], [ -0.458637, -0.0222037, -0.0477039 ]
+  DEFINE_SURFACE_REGIONS {
+     sampling_box {
+       ELEMENT_LIST = [ALL_ELEMENTS]
+       SURFACE_CLASS = transparent_to_all_diffusing_molecules
     }
-}
-
+  }
 }

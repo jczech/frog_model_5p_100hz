@@ -50,13 +50,13 @@ INCLUDE_FILE = "volume_buffer.mdl"
 /* create instances of the objects in the simulation */ 
 
 INSTANTIATE presynaptic_segment OBJECT { /* the world object is called presynaptic segment */
-end_caps OBJECT end_caps {} 
-main_membrane OBJECT main_membrane {}
-vesicles OBJECT vesicles {}
-channels OBJECT channels {}
-oldchannels OBJECT oldchannels{}
-not_channels OBJECT not_channels {}
-buffer OBJECT buffer {}
+  end_caps OBJECT end_caps {} 
+  main_membrane OBJECT main_membrane {}
+  vesicles OBJECT vesicles {}
+  channels OBJECT channels {}
+  oldchannels OBJECT oldchannels{}
+  not_channels OBJECT not_channels {}
+  buffer OBJECT buffer {}
 }
 
 
