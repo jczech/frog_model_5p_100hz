@@ -14,7 +14,6 @@ DEFINE_SURFACE_REGIONS {
 dreamm_region_1 {
 ELEMENT_LIST = [ALL_ELEMENTS]
 /*MOLECULE_NUMBER { closed_channel_D01, = 1}*/
-VIZ_VALUE = 1
 }
 }
 }
@@ -31,7 +30,6 @@ DEFINE_SURFACE_REGIONS {
 dreamm_region_2 {
 ELEMENT_LIST = [ALL_ELEMENTS]
 /*MOLECULE_NUMBER { closed_channel_D04, = 1}*/
-VIZ_VALUE = 2
 }
 }
 }
@@ -48,7 +46,6 @@ DEFINE_SURFACE_REGIONS {
 dreamm_region_3 {
 ELEMENT_LIST = [ALL_ELEMENTS]
 /*MOLECULE_NUMBER { closed_channel_D09, = 1}*/
-VIZ_VALUE = 3
 }
 }
 }
@@ -65,7 +62,6 @@ DEFINE_SURFACE_REGIONS {
 dreamm_region_4 {
 ELEMENT_LIST = [ALL_ELEMENTS]
 /*MOLECULE_NUMBER { closed_channel_D13, = 1}*/
-VIZ_VALUE = 4
 }
 }
 }
@@ -82,7 +78,6 @@ DEFINE_SURFACE_REGIONS {
 dreamm_region_5 {
 ELEMENT_LIST = [ALL_ELEMENTS]
 /*MOLECULE_NUMBER { closed_channel_D17, = 1}*/
-VIZ_VALUE = 5
 }
 }
 }
@@ -99,7 +94,6 @@ DEFINE_SURFACE_REGIONS {
 dreamm_region_6 {
 ELEMENT_LIST = [ALL_ELEMENTS]
 /*MOLECULE_NUMBER { closed_channel_D21, = 1}*/
-VIZ_VALUE = 6
 }
 }
 }
@@ -116,7 +110,6 @@ DEFINE_SURFACE_REGIONS {
 dreamm_region_7 {
 ELEMENT_LIST = [ALL_ELEMENTS]
 /*MOLECULE_NUMBER { closed_channel_D25, = 1}*/
-VIZ_VALUE = 7
 }
 }
 }
@@ -133,7 +126,6 @@ DEFINE_SURFACE_REGIONS {
 dreamm_region_8 {
 ELEMENT_LIST = [ALL_ELEMENTS]
 /*MOLECULE_NUMBER { closed_channel_D29, = 1}*/
-VIZ_VALUE = 8
 }
 }
 }
@@ -150,7 +142,6 @@ DEFINE_SURFACE_REGIONS {
 dreamm_region_9 {
 ELEMENT_LIST = [ALL_ELEMENTS]
 /*MOLECULE_NUMBER { closed_channel_D33, = 1}*/
-VIZ_VALUE = 9
 }
 }
 }
@@ -167,7 +158,6 @@ DEFINE_SURFACE_REGIONS {
 dreamm_region_10 {
 ELEMENT_LIST = [ALL_ELEMENTS]
 /*MOLECULE_NUMBER { closed_channel_D37, = 1}*/
-VIZ_VALUE = 10
 }
 }
 }
@@ -184,7 +174,6 @@ DEFINE_SURFACE_REGIONS {
 dreamm_region_11 {
 ELEMENT_LIST = [ALL_ELEMENTS]
 /*MOLECULE_NUMBER { closed_channel_D42, = 1}*/
-VIZ_VALUE = 11
 }
 }
 }
@@ -201,7 +190,6 @@ DEFINE_SURFACE_REGIONS {
 dreamm_region_12 {
 ELEMENT_LIST = [ALL_ELEMENTS]
 /*MOLECULE_NUMBER { closed_channel_D46, = 1}*/
-VIZ_VALUE = 12
 }
 }
 }
@@ -218,7 +206,6 @@ DEFINE_SURFACE_REGIONS {
 dreamm_region_13 {
 ELEMENT_LIST = [ALL_ELEMENTS]
 /*MOLECULE_NUMBER { closed_channel_D49, = 1}*/
-VIZ_VALUE = 13
 }
 }
 }
@@ -235,7 +222,6 @@ DEFINE_SURFACE_REGIONS {
 dreamm_region_26 {
 ELEMENT_LIST = [ALL_ELEMENTS]
 /*MOLECULE_NUMBER { closed_channel_A01, = 1}*/
-VIZ_VALUE = 26
 }
 }
 }
@@ -252,7 +238,6 @@ DEFINE_SURFACE_REGIONS {
 dreamm_region_25 {
 ELEMENT_LIST = [ALL_ELEMENTS]
 /*MOLECULE_NUMBER { closed_channel_A04, = 1}*/
-VIZ_VALUE = 25
 }
 }
 }
@@ -269,7 +254,6 @@ DEFINE_SURFACE_REGIONS {
 dreamm_region_24 {
 ELEMENT_LIST = [ALL_ELEMENTS]
 /*MOLECULE_NUMBER { closed_channel_A09, = 1}*/
-VIZ_VALUE = 24
 }
 }
 }
@@ -286,7 +270,6 @@ DEFINE_SURFACE_REGIONS {
 dreamm_region_23 {
 ELEMENT_LIST = [ALL_ELEMENTS]
 /*MOLECULE_NUMBER { closed_channel_A13, = 1}*/
-VIZ_VALUE = 23
 }
 }
 }
@@ -303,7 +286,6 @@ DEFINE_SURFACE_REGIONS {
 dreamm_region_22 {
 ELEMENT_LIST = [ALL_ELEMENTS]
 /*MOLECULE_NUMBER { closed_channel_A17, = 1}*/
-VIZ_VALUE = 22
 }
 }
 }
@@ -320,7 +302,6 @@ DEFINE_SURFACE_REGIONS {
 dreamm_region_21 {
 ELEMENT_LIST = [ALL_ELEMENTS]
 /*MOLECULE_NUMBER { closed_channel_A21, = 1}*/
-VIZ_VALUE = 21
 }
 }
 }
@@ -337,7 +318,6 @@ DEFINE_SURFACE_REGIONS {
 dreamm_region_20 {
 ELEMENT_LIST = [ALL_ELEMENTS]
 /*MOLECULE_NUMBER { closed_channel_A25, = 1}*/
-VIZ_VALUE = 20
 }
 }
 }
@@ -354,7 +334,6 @@ DEFINE_SURFACE_REGIONS {
 dreamm_region_19 {
 ELEMENT_LIST = [ALL_ELEMENTS]
 /*MOLECULE_NUMBER { closed_channel_A29, = 1}*/
-VIZ_VALUE = 19
 }
 }
 }
@@ -371,7 +350,6 @@ DEFINE_SURFACE_REGIONS {
 dreamm_region_18 {
 ELEMENT_LIST = [ALL_ELEMENTS]
 /*MOLECULE_NUMBER { closed_channel_A33, = 1}*/
-VIZ_VALUE = 18
 }
 }
 }
@@ -388,7 +366,6 @@ DEFINE_SURFACE_REGIONS {
 dreamm_region_17 {
 ELEMENT_LIST = [ALL_ELEMENTS]
 /*MOLECULE_NUMBER { closed_channel_A38, = 1}*/
-VIZ_VALUE = 17
 }
 }
 }
@@ -405,7 +382,6 @@ DEFINE_SURFACE_REGIONS {
 dreamm_region_16 {
 ELEMENT_LIST = [ALL_ELEMENTS]
 /*MOLECULE_NUMBER { closed_channel_A42, = 1}*/
-VIZ_VALUE = 16
 }
 }
 }
@@ -422,7 +398,6 @@ DEFINE_SURFACE_REGIONS {
 dreamm_region_15 {
 ELEMENT_LIST = [ALL_ELEMENTS]
 /*MOLECULE_NUMBER { closed_channel_A46, = 1}*/
-VIZ_VALUE = 15
 }
 }
 }
@@ -439,7 +414,6 @@ DEFINE_SURFACE_REGIONS {
 dreamm_region_14 {
 ELEMENT_LIST = [ALL_ELEMENTS]
 /*MOLECULE_NUMBER { closed_channel_A49, = 1}*/
-VIZ_VALUE = 14
 }
 }
 }
