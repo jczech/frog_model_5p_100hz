@@ -1,12 +1,11 @@
 VIZ_OUTPUT { /*Defines the visualization data output block*/
-        MODE = ASCII
-        FILENAME = "./viz_data/seed_" & seed & "/Scene"
-        MOLECULES
-        {
-/*                NAME_LIST { ALL_MOLECULES}  */ 
-                NAME_LIST { "ca_*"}  
-                ITERATION_NUMBERS { ALL_DATA @ [[0 TO 300000 STEP 10000]] }
-
-        }
+  MODE = ASCII
+  FILENAME = "./viz_data/seed_" & seed & "/Scene"
+  MOLECULES
+  {
+    /*NAME_LIST { ALL_MOLECULES}*/
+    NAME_LIST { "ca_*"}  
+    ITERATION_NUMBERS { ALL_DATA @ [[0 TO 300000 STEP 10000]] }
+  }
 } 
 
