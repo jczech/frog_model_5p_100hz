@@ -42,9 +42,9 @@ INCLUDE_FILE = "subvesicular_sampling_box_template.mdl"
 
 INCLUDE_FILE = "main_membrane_june26.mdl"
 INCLUDE_FILE = "active_zone_vesicles.mdl"
-INCLUDE_FILE = "channels_june23.mdl"
-INCLUDE_FILE = "not_channels_june23.mdl"
-INCLUDE_FILE = "end_caps_june26.mdl"
+INCLUDE_FILE = "channels.mdl"
+INCLUDE_FILE = "not_channels.mdl"
+INCLUDE_FILE = "end_caps.mdl"
 INCLUDE_FILE = "volume_buffer.mdl"
 
 /* create instances of the objects in the simulation */ 
