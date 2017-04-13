@@ -40,7 +40,7 @@ INCLUDE_FILE = "subvesicular_sampling_box_template.mdl"
 
 /* object files */
 
-INCLUDE_FILE = "main_membrane_june26.mdl"
+INCLUDE_FILE = "main_membrane.mdl"
 INCLUDE_FILE = "active_zone_vesicles.mdl"
 INCLUDE_FILE = "channels.mdl"
 INCLUDE_FILE = "not_channels.mdl"
