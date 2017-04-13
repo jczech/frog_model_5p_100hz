@@ -1,0 +1,70 @@
+/* This is the main mdl file for the azmodel simulation*/
+
+INCLUDE_FILE = "parameters.mdl"  /* read in the simulation paramters */
+
+/*
+NOTIFICATIONS
+{
+DIFFUSION_CONSTANT_REPORT=OFF
+ITERATION_REPORT=OFF
+PROBABILITY_REPORT=OFF
+VARYING_PROBABILITY_REPORT=OFF
+PROGRESS_REPORT=OFF
+RELEASE_EVENT_REPORT=OFF
+//FINAL_SUMMARY=OFF
+}
+*/
+
+ITERATIONS = iterations 
+TIME_STEP = time_step
+TIME_STEP_MAX = maximum_time_step
+EFFECTOR_GRID_DENSITY = effector_grid_density
+
+PARTITION_X = [[-0.895882 TO 0.895758 STEP 0.04]]
+PARTITION_Y = [[-0.0100001 TO 0.899908 STEP 0.02]]
+PARTITION_Z = [[-0.565 TO 0.565 STEP 0.02]]
+
+/* molecules, reactions, and surface classes */
+
+INCLUDE_FILE = "molecules.mdl"
+INCLUDE_FILE = "reactions.mdl"
+INCLUDE_FILE = "surface_classes.mdl"
+INCLUDE_FILE = "channel_release_site.mdl"
+
+/* object template files */
+
+INCLUDE_FILE = "ca_binding_site_template.mdl"
+INCLUDE_FILE = "ca_Y_binding_site_template.mdl"
+INCLUDE_FILE = "vesicle_template.mdl"
+INCLUDE_FILE = "subvesicular_sampling_box_template.mdl"
+
+/* object files */
+
+INCLUDE_FILE = "main_membrane_june26.mdl"
+INCLUDE_FILE = "active_zone_vesicles.mdl"
+INCLUDE_FILE = "channels_june23.mdl"
+INCLUDE_FILE = "not_channels_june23.mdl"
+INCLUDE_FILE = "end_caps_june26.mdl"
+INCLUDE_FILE = "volume_buffer.mdl"
+
+/* create instances of the objects in the simulation */ 
+
+INSTANTIATE presynaptic_segment OBJECT { /* the world object is called presynaptic segment */
+end_caps OBJECT end_caps {} 
+main_membrane OBJECT main_membrane {}
+vesicles OBJECT vesicles {}
+channels OBJECT channels {}
+oldchannels OBJECT oldchannels{}
+not_channels OBJECT not_channels {}
+buffer OBJECT buffer {}
+}
+
+
+/* visual and reaction data output */
+
+sprintf(seed,"%04g",SEED) /* write the internal variable SEED into the variable seed */
+
+INCLUDE_FILE = "local_directory.mdl" /* file written by control script that defines the destination of reaction_data */
+                                     /* for default conditions, rewrite local_directory.mdl to state localdir = /react_data */
+/*INCLUDE_FILE = "viz_data.mdl" */
+INCLUDE_FILE = "reaction_data.mdl"

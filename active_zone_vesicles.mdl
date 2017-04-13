@@ -1,0 +1,133 @@
+
+/* copy vesicles, ca binding sites, and subvesicular sampling boxes
+into new objects and translate them*/
+
+
+vesicles OBJECT { /*open metaobject vesicles for vesicles, sensors, and subvesicular sampling boxes*/
+top OBJECT { /*open top, a metaobject containing vesicles on the top side*/
+
+sensor_01 OBJECT sensor {}
+sensor_02 OBJECT sensor {TRANSLATE = [ 0.08, 0, 0 ]}
+sensor_03 OBJECT sensor {TRANSLATE = [ 0.16, 0, 0 ]}
+sensor_04 OBJECT sensor {TRANSLATE = [ 0.24, 0, 0 ]}
+sensor_05 OBJECT sensor {TRANSLATE = [ 0.32, 0, 0 ]}
+sensor_06 OBJECT sensor {TRANSLATE = [ 0.40, 0, 0 ]}
+sensor_07 OBJECT sensor {TRANSLATE = [ 0.48, 0, 0 ]}
+sensor_08 OBJECT sensor {TRANSLATE = [ 0.56, 0, 0 ]}
+sensor_09 OBJECT sensor {TRANSLATE = [ 0.64, 0, 0 ]}
+sensor_10 OBJECT sensor {TRANSLATE = [ 0.72, 0, 0 ]}
+sensor_11 OBJECT sensor {TRANSLATE = [ 0.80, 0, 0 ]}
+sensor_12 OBJECT sensor {TRANSLATE = [ 0.88, 0, 0 ]}
+sensor_13 OBJECT sensor {TRANSLATE = [ 0.96, 0, 0 ]}
+
+vesicle_01 OBJECT vesicle {TRANSLATE = [0.4788, 0.0723, 0.0067] ROTATE = [1, 0, 0], -90 TRANSLATE = [ -0.4788, 0.024, -0.0677 ] }
+vesicle_02 OBJECT vesicle {TRANSLATE = [0.4788, 0.0723, 0.0067] ROTATE = [1, 0, 0], -90 TRANSLATE = [ -0.4788, 0.024, -0.0677 ] TRANSLATE = [ 0.08, 0, 0 ]}
+vesicle_03 OBJECT vesicle {TRANSLATE = [0.4788, 0.0723, 0.0067] ROTATE = [1, 0, 0], -90 TRANSLATE = [ -0.4788, 0.024, -0.0677 ] TRANSLATE = [ 0.16, 0, 0 ]}
+vesicle_04 OBJECT vesicle {TRANSLATE = [0.4788, 0.0723, 0.0067] ROTATE = [1, 0, 0], -90 TRANSLATE = [ -0.4788, 0.024, -0.0677 ] TRANSLATE = [ 0.24, 0, 0 ]}
+vesicle_05 OBJECT vesicle {TRANSLATE = [0.4788, 0.0723, 0.0067] ROTATE = [1, 0, 0], -90 TRANSLATE = [ -0.4788, 0.024, -0.0677 ] TRANSLATE = [ 0.32, 0, 0 ] }
+vesicle_06 OBJECT vesicle {TRANSLATE = [0.4788, 0.0723, 0.0067] ROTATE = [1, 0, 0], -90 TRANSLATE = [ -0.4788, 0.024, -0.0677 ] TRANSLATE = [ 0.40, 0, 0 ] }
+vesicle_07 OBJECT vesicle {TRANSLATE = [0.4788, 0.0723, 0.0067] ROTATE = [1, 0, 0], -90 TRANSLATE = [ -0.4788, 0.024, -0.0677 ] TRANSLATE = [ 0.48, 0, 0 ] }
+vesicle_08 OBJECT vesicle {TRANSLATE = [0.4788, 0.0723, 0.0067] ROTATE = [1, 0, 0], -90 TRANSLATE = [ -0.4788, 0.024, -0.0677 ] TRANSLATE = [ 0.56, 0, 0 ] }
+vesicle_09 OBJECT vesicle {TRANSLATE = [0.4788, 0.0723, 0.0067] ROTATE = [1, 0, 0], -90 TRANSLATE = [ -0.4788, 0.024, -0.0677 ] TRANSLATE = [ 0.64, 0, 0 ] }
+vesicle_10 OBJECT vesicle {TRANSLATE = [0.4788, 0.0723, 0.0067] ROTATE = [1, 0, 0], -90 TRANSLATE = [ -0.4788, 0.024, -0.0677 ] TRANSLATE = [ 0.72, 0, 0 ] }
+vesicle_11 OBJECT vesicle {TRANSLATE = [0.4788, 0.0723, 0.0067] ROTATE = [1, 0, 0], -90 TRANSLATE = [ -0.4788, 0.024, -0.0677 ] TRANSLATE = [ 0.80, 0, 0 ] }
+vesicle_12 OBJECT vesicle {TRANSLATE = [0.4788, 0.0723, 0.0067] ROTATE = [1, 0, 0], -90 TRANSLATE = [ -0.4788, 0.024, -0.0677 ] TRANSLATE = [ 0.88, 0, 0 ] }
+vesicle_13 OBJECT vesicle {TRANSLATE = [0.4788, 0.0723, 0.0067] ROTATE = [1, 0, 0], -90 TRANSLATE = [ -0.4788, 0.024, -0.0677 ] TRANSLATE = [ 0.96, 0, 0 ] }
+
+sampling_box_01 OBJECT sampling_box {TRANSLATE = [0,0.031,0]}
+sampling_box_02 OBJECT sampling_box {TRANSLATE = [0.08,0.031,0]}
+sampling_box_03 OBJECT sampling_box {TRANSLATE = [0.16,0.031,0]}
+sampling_box_04 OBJECT sampling_box {TRANSLATE = [0.24,0.031,0]}
+sampling_box_05 OBJECT sampling_box {TRANSLATE = [0.32,0.031,0]}
+sampling_box_06 OBJECT sampling_box {TRANSLATE = [0.40,0.031,0]}
+sampling_box_07 OBJECT sampling_box {TRANSLATE = [0.48,0.031,0]}
+sampling_box_08 OBJECT sampling_box {TRANSLATE = [0.56,0.031,0]}
+sampling_box_09 OBJECT sampling_box {TRANSLATE = [0.64,0.031,0]}
+sampling_box_10 OBJECT sampling_box {TRANSLATE = [0.72,0.031,0]}
+sampling_box_11 OBJECT sampling_box {TRANSLATE = [0.80,0.031,0]}
+sampling_box_12 OBJECT sampling_box {TRANSLATE = [0.88,0.031,0]}
+sampling_box_13 OBJECT sampling_box {TRANSLATE = [0.96,0.031,0]}
+
+sensor_Y_01 OBJECT sensor_Y {TRANSLATE = [0.4788, 0.0723, 0.0067] ROTATE = [1, 0, 0], -90 TRANSLATE = [ -0.4788, 0.024, -0.0677 ]}
+sensor_Y_02 OBJECT sensor_Y {TRANSLATE = [0.4788, 0.0723, 0.0067] ROTATE = [1, 0, 0], -90 TRANSLATE = [ -0.4788, 0.024, -0.0677 ] TRANSLATE = [ 0.08, 0, 0 ]}
+sensor_Y_03 OBJECT sensor_Y {TRANSLATE = [0.4788, 0.0723, 0.0067] ROTATE = [1, 0, 0], -90 TRANSLATE = [ -0.4788, 0.024, -0.0677 ] TRANSLATE = [ 0.16, 0, 0 ]}
+sensor_Y_04 OBJECT sensor_Y {TRANSLATE = [0.4788, 0.0723, 0.0067] ROTATE = [1, 0, 0], -90 TRANSLATE = [ -0.4788, 0.024, -0.0677 ] TRANSLATE = [ 0.24, 0, 0 ]}
+sensor_Y_05 OBJECT sensor_Y {TRANSLATE = [0.4788, 0.0723, 0.0067] ROTATE = [1, 0, 0], -90 TRANSLATE = [ -0.4788, 0.024, -0.0677 ] TRANSLATE = [ 0.32, 0, 0 ]}
+sensor_Y_06 OBJECT sensor_Y {TRANSLATE = [0.4788, 0.0723, 0.0067] ROTATE = [1, 0, 0], -90 TRANSLATE = [ -0.4788, 0.024, -0.0677 ] TRANSLATE = [ 0.40, 0, 0 ]}
+sensor_Y_07 OBJECT sensor_Y {TRANSLATE = [0.4788, 0.0723, 0.0067] ROTATE = [1, 0, 0], -90 TRANSLATE = [ -0.4788, 0.024, -0.0677 ] TRANSLATE = [ 0.48, 0, 0 ]}
+sensor_Y_08 OBJECT sensor_Y {TRANSLATE = [0.4788, 0.0723, 0.0067] ROTATE = [1, 0, 0], -90 TRANSLATE = [ -0.4788, 0.024, -0.0677 ] TRANSLATE = [ 0.56, 0, 0 ]}
+sensor_Y_09 OBJECT sensor_Y {TRANSLATE = [0.4788, 0.0723, 0.0067] ROTATE = [1, 0, 0], -90 TRANSLATE = [ -0.4788, 0.024, -0.0677 ] TRANSLATE = [ 0.64, 0, 0 ]}
+sensor_Y_10 OBJECT sensor_Y {TRANSLATE = [0.4788, 0.0723, 0.0067] ROTATE = [1, 0, 0], -90 TRANSLATE = [ -0.4788, 0.024, -0.0677 ] TRANSLATE = [ 0.72, 0, 0 ]}
+sensor_Y_11 OBJECT sensor_Y {TRANSLATE = [0.4788, 0.0723, 0.0067] ROTATE = [1, 0, 0], -90 TRANSLATE = [ -0.4788, 0.024, -0.0677 ] TRANSLATE = [ 0.80, 0, 0 ]}
+sensor_Y_12 OBJECT sensor_Y {TRANSLATE = [0.4788, 0.0723, 0.0067] ROTATE = [1, 0, 0], -90 TRANSLATE = [ -0.4788, 0.024, -0.0677 ] TRANSLATE = [ 0.88, 0, 0 ]}
+sensor_Y_13 OBJECT sensor_Y {TRANSLATE = [0.4788, 0.0723, 0.0067] ROTATE = [1, 0, 0], -90 TRANSLATE = [ -0.4788, 0.024, -0.0677 ] TRANSLATE = [ 0.96, 0, 0 ]}
+
+
+
+TRANSLATE = [0,0,-0.005] /*tweak the distance from channels*/
+
+} /*close top*/
+
+bottom OBJECT  { /* open bottom, a metaobject for vesicles on the bottom side */
+
+sensor_14 OBJECT sensor {TRANSLATE = [ 0, 0, 0.14 ]}
+sensor_15 OBJECT sensor {TRANSLATE = [ 0.08, 0, 0.14 ]}
+sensor_16 OBJECT sensor {TRANSLATE = [ 0.16, 0, 0.14 ]}
+sensor_17 OBJECT sensor {TRANSLATE = [ 0.24, 0, 0.14 ]}
+sensor_18 OBJECT sensor {TRANSLATE = [ 0.32, 0, 0.14 ]}
+sensor_19 OBJECT sensor {TRANSLATE = [ 0.40, 0, 0.14 ]}
+sensor_20 OBJECT sensor {TRANSLATE = [ 0.48, 0, 0.14 ]}
+sensor_21 OBJECT sensor {TRANSLATE = [ 0.56, 0, 0.14 ]}
+sensor_22 OBJECT sensor {TRANSLATE = [ 0.64, 0, 0.14 ]}
+sensor_23 OBJECT sensor {TRANSLATE = [ 0.72, 0, 0.14 ]}
+sensor_24 OBJECT sensor {TRANSLATE = [ 0.80, 0, 0.14 ]}
+sensor_25 OBJECT sensor {TRANSLATE = [ 0.88, 0, 0.14 ]}
+sensor_26 OBJECT sensor {TRANSLATE = [ 0.96, 0, 0.14 ]}
+
+vesicle_14 OBJECT vesicle {TRANSLATE = [0.4788, 0.0723, 0.0067] ROTATE = [1, 0, 0], -90 TRANSLATE = [ -0.4788, 0.024, -0.0677 ] TRANSLATE = [ 0, 0, 0.14 ]}
+vesicle_15 OBJECT vesicle {TRANSLATE = [0.4788, 0.0723, 0.0067] ROTATE = [1, 0, 0], -90 TRANSLATE = [ -0.4788, 0.024, -0.0677 ] TRANSLATE = [ 0.08, 0, 0.14 ]}
+vesicle_16 OBJECT vesicle {TRANSLATE = [0.4788, 0.0723, 0.0067] ROTATE = [1, 0, 0], -90 TRANSLATE = [ -0.4788, 0.024, -0.0677 ] TRANSLATE = [ 0.16, 0, 0.14 ]}
+vesicle_17 OBJECT vesicle {TRANSLATE = [0.4788, 0.0723, 0.0067] ROTATE = [1, 0, 0], -90 TRANSLATE = [ -0.4788, 0.024, -0.0677 ] TRANSLATE = [ 0.24, 0, 0.14 ]}
+vesicle_18 OBJECT vesicle {TRANSLATE = [0.4788, 0.0723, 0.0067] ROTATE = [1, 0, 0], -90 TRANSLATE = [ -0.4788, 0.024, -0.0677 ] TRANSLATE = [ 0.32, 0, 0.14 ]}
+vesicle_19 OBJECT vesicle {TRANSLATE = [0.4788, 0.0723, 0.0067] ROTATE = [1, 0, 0], -90 TRANSLATE = [ -0.4788, 0.024, -0.0677 ] TRANSLATE = [ 0.40, 0, 0.14 ]}
+vesicle_20 OBJECT vesicle {TRANSLATE = [0.4788, 0.0723, 0.0067] ROTATE = [1, 0, 0], -90 TRANSLATE = [ -0.4788, 0.024, -0.0677 ] TRANSLATE = [ 0.48, 0, 0.14 ]}
+vesicle_21 OBJECT vesicle {TRANSLATE = [0.4788, 0.0723, 0.0067] ROTATE = [1, 0, 0], -90 TRANSLATE = [ -0.4788, 0.024, -0.0677 ] TRANSLATE = [ 0.56, 0, 0.14 ]}
+vesicle_22 OBJECT vesicle {TRANSLATE = [0.4788, 0.0723, 0.0067] ROTATE = [1, 0, 0], -90 TRANSLATE = [ -0.4788, 0.024, -0.0677 ] TRANSLATE = [ 0.64, 0, 0.14 ]}
+vesicle_23 OBJECT vesicle {TRANSLATE = [0.4788, 0.0723, 0.0067] ROTATE = [1, 0, 0], -90 TRANSLATE = [ -0.4788, 0.024, -0.0677 ] TRANSLATE = [ 0.72, 0, 0.14 ]}
+vesicle_24 OBJECT vesicle {TRANSLATE = [0.4788, 0.0723, 0.0067] ROTATE = [1, 0, 0], -90 TRANSLATE = [ -0.4788, 0.024, -0.0677 ] TRANSLATE = [ 0.80, 0, 0.14 ]}
+vesicle_25 OBJECT vesicle {TRANSLATE = [0.4788, 0.0723, 0.0067] ROTATE = [1, 0, 0], -90 TRANSLATE = [ -0.4788, 0.024, -0.0677 ] TRANSLATE = [ 0.88, 0, 0.14 ]}
+vesicle_26 OBJECT vesicle {TRANSLATE = [0.4788, 0.0723, 0.0067] ROTATE = [1, 0, 0], -90 TRANSLATE = [ -0.4788, 0.024, -0.0677 ] TRANSLATE = [ 0.96, 0, 0.14 ]}
+
+sampling_box_14 OBJECT sampling_box {TRANSLATE = [0,0.031,0.14]}
+sampling_box_15 OBJECT sampling_box {TRANSLATE = [0.08,0.031,0.14]}
+sampling_box_16 OBJECT sampling_box {TRANSLATE = [0.16,0.031,0.14]}
+sampling_box_17 OBJECT sampling_box {TRANSLATE = [0.24,0.031,0.14]}
+sampling_box_18 OBJECT sampling_box {TRANSLATE = [0.32,0.031,0.14]}
+sampling_box_19 OBJECT sampling_box {TRANSLATE = [0.4,0.031,0.14]}
+sampling_box_20 OBJECT sampling_box {TRANSLATE = [0.48,0.031,0.14]}
+sampling_box_21 OBJECT sampling_box {TRANSLATE = [0.56,0.031,0.14]}
+sampling_box_22 OBJECT sampling_box {TRANSLATE = [0.64,0.031,0.14]}
+sampling_box_23 OBJECT sampling_box {TRANSLATE = [0.72,0.031,0.14]}
+sampling_box_24 OBJECT sampling_box {TRANSLATE = [0.8,0.031,0.14]}
+sampling_box_25 OBJECT sampling_box {TRANSLATE = [0.88,0.031,0.14]}
+sampling_box_26 OBJECT sampling_box {TRANSLATE = [0.96,0.031,0.14]}
+
+sensor_Y_14 OBJECT sensor_Y {TRANSLATE = [0.4788, 0.0723, 0.0067] ROTATE = [1, 0, 0], -90 TRANSLATE = [ -0.4788, 0.024, -0.0677 ] TRANSLATE = [ 0, 0, 0.14 ]}
+sensor_Y_15 OBJECT sensor_Y {TRANSLATE = [0.4788, 0.0723, 0.0067] ROTATE = [1, 0, 0], -90 TRANSLATE = [ -0.4788, 0.024, -0.0677 ] TRANSLATE = [ 0.08, 0, 0.14 ]}
+sensor_Y_16 OBJECT sensor_Y {TRANSLATE = [0.4788, 0.0723, 0.0067] ROTATE = [1, 0, 0], -90 TRANSLATE = [ -0.4788, 0.024, -0.0677 ] TRANSLATE = [ 0.16, 0, 0.14 ]}
+sensor_Y_17 OBJECT sensor_Y {TRANSLATE = [0.4788, 0.0723, 0.0067] ROTATE = [1, 0, 0], -90 TRANSLATE = [ -0.4788, 0.024, -0.0677 ] TRANSLATE = [ 0.24, 0, 0.14 ]}
+sensor_Y_18 OBJECT sensor_Y {TRANSLATE = [0.4788, 0.0723, 0.0067] ROTATE = [1, 0, 0], -90 TRANSLATE = [ -0.4788, 0.024, -0.0677 ] TRANSLATE = [ 0.32, 0, 0.14 ]}
+sensor_Y_19 OBJECT sensor_Y {TRANSLATE = [0.4788, 0.0723, 0.0067] ROTATE = [1, 0, 0], -90 TRANSLATE = [ -0.4788, 0.024, -0.0677 ] TRANSLATE = [ 0.40, 0, 0.14 ]}
+sensor_Y_20 OBJECT sensor_Y {TRANSLATE = [0.4788, 0.0723, 0.0067] ROTATE = [1, 0, 0], -90 TRANSLATE = [ -0.4788, 0.024, -0.0677 ] TRANSLATE = [ 0.48, 0, 0.14 ]}
+sensor_Y_21 OBJECT sensor_Y {TRANSLATE = [0.4788, 0.0723, 0.0067] ROTATE = [1, 0, 0], -90 TRANSLATE = [ -0.4788, 0.024, -0.0677 ] TRANSLATE = [ 0.56, 0, 0.14 ]}
+sensor_Y_22 OBJECT sensor_Y {TRANSLATE = [0.4788, 0.0723, 0.0067] ROTATE = [1, 0, 0], -90 TRANSLATE = [ -0.4788, 0.024, -0.0677 ] TRANSLATE = [ 0.64, 0, 0.14 ]}
+sensor_Y_23 OBJECT sensor_Y {TRANSLATE = [0.4788, 0.0723, 0.0067] ROTATE = [1, 0, 0], -90 TRANSLATE = [ -0.4788, 0.024, -0.0677 ] TRANSLATE = [ 0.72, 0, 0.14 ]}
+sensor_Y_24 OBJECT sensor_Y {TRANSLATE = [0.4788, 0.0723, 0.0067] ROTATE = [1, 0, 0], -90 TRANSLATE = [ -0.4788, 0.024, -0.0677 ] TRANSLATE = [ 0.80, 0, 0.14 ]}
+sensor_Y_25 OBJECT sensor_Y {TRANSLATE = [0.4788, 0.0723, 0.0067] ROTATE = [1, 0, 0], -90 TRANSLATE = [ -0.4788, 0.024, -0.0677 ] TRANSLATE = [ 0.88, 0, 0.14 ]}
+sensor_Y_26 OBJECT sensor_Y {TRANSLATE = [0.4788, 0.0723, 0.0067] ROTATE = [1, 0, 0], -90 TRANSLATE = [ -0.4788, 0.024, -0.0677 ] TRANSLATE = [ 0.96, 0, 0.14 ]}
+
+
+} /* close bottom */
+TRANSLATE = [0,-0.031,0] /* tweak the vesicle height*/
+} /* close vesicles */
+

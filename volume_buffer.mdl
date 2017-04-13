@@ -1,0 +1,22 @@
+buffer OBJECT {
+        buffer_box BOX {
+		CORNERS = [-.8,-.1,-.6],[.8,.9,.6]
+                DEFINE_SURFACE_REGIONS {
+                        whole_box {
+                                ELEMENT_LIST = [ALL_ELEMENTS]
+                        }
+                }
+        }
+        release RELEASE_SITE {
+                SHAPE = buffer.buffer_box[whole_box]
+                MOLECULE = unbound_fixed_buffer
+                CONCENTRATION = fixed_buffer_concentration
+        }
+        release2 RELEASE_SITE {
+                SHAPE = buffer.buffer_box[whole_box]
+                MOLECULE = unbound_mobile_buffer
+                CONCENTRATION = mobile_buffer_concentration
+
+}
+}
+

@@ -1,0 +1,410 @@
+sensor_Y POLYGON_LIST {
+	VERTEX_LIST {
+		[ -0.473072, -0.053641, -0.022207 ]
+		[ -0.484488, -0.090909, -0.022207 ]
+		[ -0.457344, -0.069289, -0.019107 ]
+		[ -0.457864, -0.063039, -0.016398 ]
+		[ -0.500214, -0.069289, -0.019107 ]
+		[ -0.499694, -0.063039, -0.016398 ]
+		[ -0.457344, -0.075261, -0.019107 ]
+		[ -0.457864, -0.081511, -0.016398 ]
+		[ -0.500214, -0.075261, -0.019107 ]
+		[ -0.499694, -0.081511, -0.016398 ]
+		[ -0.459189, -0.074120, -0.022093 ]
+		[ -0.459020, -0.077106, -0.021057 ]
+		[ -0.459189, -0.070430, -0.022093 ]
+		[ -0.459020, -0.067444, -0.021057 ]
+		[ -0.460865, -0.072275, -0.024043 ]
+		[ -0.498369, -0.070430, -0.022093 ]
+		[ -0.498538, -0.067444, -0.021057 ]
+		[ -0.498369, -0.074120, -0.022093 ]
+		[ -0.498538, -0.077106, -0.021057 ]
+		[ -0.496693, -0.072275, -0.024043 ]
+		[ -0.460064, -0.060709, -0.018210 ]
+		[ -0.459374, -0.063973, -0.019883 ]
+		[ -0.461219, -0.065113, -0.022869 ]
+		[ -0.469600, -0.054815, -0.021852 ]
+		[ -0.471618, -0.056406, -0.024559 ]
+		[ -0.464860, -0.059611, -0.022950 ]
+		[ -0.467570, -0.053560, -0.018567 ]
+		[ -0.461320, -0.057423, -0.016179 ]
+		[ -0.462830, -0.058356, -0.019664 ]
+		[ -0.466116, -0.056325, -0.020919 ]
+		[ -0.469600, -0.089735, -0.021852 ]
+		[ -0.460064, -0.083842, -0.018210 ]
+		[ -0.459374, -0.080577, -0.019883 ]
+		[ -0.461219, -0.079437, -0.022869 ]
+		[ -0.464860, -0.084939, -0.022950 ]
+		[ -0.467570, -0.090990, -0.018567 ]
+		[ -0.461320, -0.087127, -0.016179 ]
+		[ -0.466116, -0.088225, -0.020919 ]
+		[ -0.462830, -0.086194, -0.019664 ]
+		[ -0.474916, -0.051529, -0.019822 ]
+		[ -0.482642, -0.051529, -0.019822 ]
+		[ -0.476934, -0.053121, -0.022529 ]
+		[ -0.474916, -0.093021, -0.019822 ]
+		[ -0.482642, -0.093021, -0.019822 ]
+		[ -0.480624, -0.091430, -0.022529 ]
+		[ -0.489990, -0.053560, -0.018567 ]
+		[ -0.496239, -0.057423, -0.016179 ]
+		[ -0.487958, -0.054815, -0.021852 ]
+		[ -0.491443, -0.056325, -0.020919 ]
+		[ -0.497494, -0.060709, -0.018210 ]
+		[ -0.498184, -0.063973, -0.019883 ]
+		[ -0.496338, -0.065113, -0.022869 ]
+		[ -0.494729, -0.058356, -0.019664 ]
+		[ -0.492698, -0.059611, -0.022950 ]
+		[ -0.489990, -0.090990, -0.018567 ]
+		[ -0.496239, -0.087127, -0.016179 ]
+		[ -0.497494, -0.083842, -0.018210 ]
+		[ -0.498184, -0.080577, -0.019883 ]
+		[ -0.496338, -0.079437, -0.022869 ]
+		[ -0.494729, -0.086194, -0.019664 ]
+		[ -0.487958, -0.089735, -0.021852 ]
+		[ -0.485941, -0.088144, -0.024559 ]
+		[ -0.491443, -0.088225, -0.020919 ]
+		[ -0.492698, -0.084939, -0.022950 ]
+		[ -0.473072, -0.090909, -0.022207 ]
+		[ -0.478779, -0.089318, -0.024914 ]
+		[ -0.471618, -0.088144, -0.024559 ]
+		[ -0.476934, -0.091430, -0.022529 ]
+		[ -0.484488, -0.053641, -0.022207 ]
+		[ -0.478779, -0.055232, -0.024914 ]
+		[ -0.480624, -0.053121, -0.022529 ]
+		[ -0.485941, -0.056406, -0.024559 ]
+		[ -0.457513, -0.072275, -0.020143 ]
+		[ -0.500045, -0.072275, -0.020143 ]
+		[ -0.471054, -0.052050, -0.019500 ]
+		[ -0.471054, -0.092501, -0.019500 ]
+		[ -0.486505, -0.052050, -0.019500 ]
+		[ -0.486505, -0.092501, -0.019500 ]
+		[ -0.458554, -0.059775, -0.014725 ]
+		[ -0.499005, -0.059775, -0.014725 ]
+		[ -0.458554, -0.084775, -0.014725 ]
+		[ -0.499005, -0.084775, -0.014725 ]
+		[ -0.475089, -0.055232, -0.024914 ]
+		[ -0.482470, -0.089318, -0.024914 ]
+		[ -0.457175, -0.066304, -0.018072 ]
+		[ -0.500384, -0.066304, -0.018072 ]
+		[ -0.457175, -0.078246, -0.018072 ]
+		[ -0.500384, -0.078246, -0.018072 ]
+		[ -0.460865, -0.075966, -0.024043 ]
+		[ -0.460865, -0.068585, -0.024043 ]
+		[ -0.496693, -0.068585, -0.024043 ]
+		[ -0.496693, -0.075966, -0.024043 ]
+		[ -0.461574, -0.061642, -0.021695 ]
+		[ -0.468146, -0.057580, -0.024205 ]
+		[ -0.464085, -0.055070, -0.017633 ]
+		[ -0.468146, -0.086970, -0.024205 ]
+		[ -0.461574, -0.082908, -0.021695 ]
+		[ -0.464085, -0.089480, -0.017633 ]
+		[ -0.478779, -0.051009, -0.020143 ]
+		[ -0.478779, -0.093541, -0.020143 ]
+		[ -0.493474, -0.055070, -0.017633 ]
+		[ -0.489412, -0.057580, -0.024205 ]
+		[ -0.495984, -0.061642, -0.021695 ]
+		[ -0.493474, -0.089480, -0.017633 ]
+		[ -0.495984, -0.082908, -0.021695 ]
+		[ -0.489412, -0.086970, -0.024205 ]
+		[ -0.475089, -0.089318, -0.024914 ]
+		[ -0.482470, -0.055232, -0.024914 ]
+	}
+	ELEMENT_CONNECTIONS {
+		[ 24, 23, 93 ]
+		[ 82, 0, 24 ]
+		[ 24, 0, 23 ]
+		[ 0, 74, 23 ]
+		[ 21, 3, 84 ]
+		[ 92, 20, 21 ]
+		[ 3, 21, 20 ]
+		[ 20, 78, 3 ]
+		[ 13, 12, 89 ]
+		[ 84, 2, 13 ]
+		[ 12, 13, 2 ]
+		[ 2, 72, 12 ]
+		[ 32, 31, 96 ]
+		[ 86, 7, 32 ]
+		[ 31, 32, 7 ]
+		[ 7, 80, 31 ]
+		[ 11, 6, 86 ]
+		[ 88, 10, 11 ]
+		[ 6, 11, 10 ]
+		[ 10, 72, 6 ]
+		[ 66, 64, 106 ]
+		[ 95, 30, 66 ]
+		[ 64, 66, 30 ]
+		[ 30, 75, 64 ]
+		[ 70, 40, 98 ]
+		[ 107, 68, 70 ]
+		[ 40, 70, 68 ]
+		[ 68, 76, 40 ]
+		[ 41, 0, 82 ]
+		[ 98, 39, 41 ]
+		[ 0, 41, 39 ]
+		[ 74, 0, 39 ]
+		[ 67, 42, 99 ]
+		[ 106, 64, 67 ]
+		[ 42, 67, 64 ]
+		[ 64, 75, 42 ]
+		[ 44, 1, 83 ]
+		[ 99, 43, 44 ]
+		[ 1, 44, 43 ]
+		[ 43, 77, 1 ]
+		[ 71, 68, 107 ]
+		[ 101, 47, 71 ]
+		[ 68, 71, 47 ]
+		[ 47, 76, 68 ]
+		[ 50, 49, 102 ]
+		[ 85, 5, 50 ]
+		[ 49, 50, 5 ]
+		[ 5, 79, 49 ]
+		[ 16, 4, 85 ]
+		[ 90, 15, 16 ]
+		[ 4, 16, 15 ]
+		[ 15, 73, 4 ]
+		[ 57, 9, 87 ]
+		[ 104, 56, 57 ]
+		[ 9, 57, 56 ]
+		[ 56, 81, 9 ]
+		[ 18, 17, 91 ]
+		[ 87, 8, 18 ]
+		[ 17, 18, 8 ]
+		[ 8, 73, 17 ]
+		[ 61, 60, 105 ]
+		[ 83, 1, 61 ]
+		[ 60, 61, 1 ]
+		[ 1, 77, 60 ]
+		[ 14, 10, 88 ]
+		[ 89, 12, 14 ]
+		[ 10, 14, 12 ]
+		[ 12, 72, 10 ]
+		[ 19, 15, 90 ]
+		[ 91, 17, 19 ]
+		[ 15, 19, 17 ]
+		[ 17, 73, 15 ]
+		[ 29, 26, 94 ]
+		[ 93, 23, 29 ]
+		[ 26, 29, 23 ]
+		[ 23, 74, 26 ]
+		[ 28, 20, 92 ]
+		[ 94, 27, 28 ]
+		[ 20, 28, 27 ]
+		[ 27, 78, 20 ]
+		[ 38, 36, 97 ]
+		[ 96, 31, 38 ]
+		[ 36, 38, 31 ]
+		[ 31, 80, 36 ]
+		[ 37, 30, 95 ]
+		[ 97, 35, 37 ]
+		[ 30, 37, 35 ]
+		[ 35, 75, 30 ]
+		[ 48, 47, 101 ]
+		[ 100, 45, 48 ]
+		[ 47, 48, 45 ]
+		[ 45, 76, 47 ]
+		[ 52, 46, 100 ]
+		[ 102, 49, 52 ]
+		[ 46, 52, 49 ]
+		[ 49, 79, 46 ]
+		[ 59, 56, 104 ]
+		[ 103, 55, 59 ]
+		[ 56, 59, 55 ]
+		[ 55, 81, 56 ]
+		[ 62, 54, 103 ]
+		[ 105, 60, 62 ]
+		[ 54, 62, 60 ]
+		[ 60, 77, 54 ]
+		[ 22, 13, 89 ]
+		[ 92, 21, 22 ]
+		[ 13, 22, 21 ]
+		[ 21, 84, 13 ]
+		[ 32, 11, 86 ]
+		[ 96, 33, 32 ]
+		[ 11, 32, 33 ]
+		[ 33, 88, 11 ]
+		[ 70, 69, 107 ]
+		[ 98, 41, 70 ]
+		[ 69, 70, 41 ]
+		[ 41, 82, 69 ]
+		[ 67, 65, 106 ]
+		[ 99, 44, 67 ]
+		[ 65, 67, 44 ]
+		[ 44, 83, 65 ]
+		[ 50, 16, 85 ]
+		[ 102, 51, 50 ]
+		[ 16, 50, 51 ]
+		[ 51, 90, 16 ]
+		[ 58, 18, 91 ]
+		[ 104, 57, 58 ]
+		[ 18, 58, 57 ]
+		[ 57, 87, 18 ]
+		[ 25, 28, 92 ]
+		[ 93, 29, 25 ]
+		[ 28, 25, 29 ]
+		[ 29, 94, 28 ]
+		[ 34, 37, 95 ]
+		[ 96, 38, 34 ]
+		[ 37, 34, 38 ]
+		[ 38, 97, 37 ]
+		[ 48, 52, 100 ]
+		[ 101, 53, 48 ]
+		[ 52, 48, 53 ]
+		[ 53, 102, 52 ]
+		[ 59, 62, 103 ]
+		[ 104, 63, 59 ]
+		[ 62, 59, 63 ]
+		[ 63, 105, 62 ]
+	}
+	DEFINE_SURFACE_REGIONS {
+	
+  site_0 {ELEMENT_LIST =[0] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_0_present} }
+  site_1 {ELEMENT_LIST =[1] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_1_present} }
+  site_2 {ELEMENT_LIST =[2] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_2_present} }
+  site_3 {ELEMENT_LIST =[3] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_3_present} }
+  site_4 {ELEMENT_LIST =[4] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_4_present} }
+  site_5 {ELEMENT_LIST =[5] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_5_present} }
+  site_6 {ELEMENT_LIST =[6] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_6_present} }
+  site_7 {ELEMENT_LIST =[7] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_7_present} }
+  site_8 {ELEMENT_LIST =[8] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_8_present} }
+  site_9 {ELEMENT_LIST =[9] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_9_present} }
+  site_10 {ELEMENT_LIST =[10] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_10_present} }
+  site_11 {ELEMENT_LIST =[11] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_11_present} }
+  site_12 {ELEMENT_LIST =[12] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_12_present} }
+  site_13 {ELEMENT_LIST =[13] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_13_present} }
+  site_14 {ELEMENT_LIST =[14] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_14_present} }
+  site_15 {ELEMENT_LIST =[15] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_15_present} }
+  site_16 {ELEMENT_LIST =[16] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_16_present} }
+  site_17 {ELEMENT_LIST =[17] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_17_present} }
+  site_18 {ELEMENT_LIST =[18] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_18_present} }
+  site_19 {ELEMENT_LIST =[19] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_19_present} }
+  site_20 {ELEMENT_LIST =[20] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_20_present} }
+  site_21 {ELEMENT_LIST =[21] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_21_present} }
+  site_22 {ELEMENT_LIST =[22] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_22_present} }
+  site_23 {ELEMENT_LIST =[23] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_23_present} }
+  site_24 {ELEMENT_LIST =[24] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_24_present} }
+  site_25 {ELEMENT_LIST =[25] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_25_present} }
+  site_26 {ELEMENT_LIST =[26] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_26_present} }
+  site_27 {ELEMENT_LIST =[27] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_27_present} }
+  site_28 {ELEMENT_LIST =[28] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_28_present} }
+  site_29 {ELEMENT_LIST =[29] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_29_present} }
+  site_30 {ELEMENT_LIST =[30] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_30_present} }
+  site_31 {ELEMENT_LIST =[31] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_31_present} }
+  site_32 {ELEMENT_LIST =[32] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_32_present} }
+  site_33 {ELEMENT_LIST =[33] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_33_present} }
+  site_34 {ELEMENT_LIST =[34] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_34_present} }
+  site_35 {ELEMENT_LIST =[35] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_35_present} }
+  site_36 {ELEMENT_LIST =[36] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_36_present} }
+  site_37 {ELEMENT_LIST =[37] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_37_present} }
+  site_38 {ELEMENT_LIST =[38] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_38_present} }
+  site_39 {ELEMENT_LIST =[39] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_39_present} }
+  site_40 {ELEMENT_LIST =[40] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_40_present} }
+  site_41 {ELEMENT_LIST =[41] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_41_present} }
+  site_42 {ELEMENT_LIST =[42] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_42_present} }
+  site_43 {ELEMENT_LIST =[43] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_43_present} }
+  site_44 {ELEMENT_LIST =[44] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_44_present} }
+  site_45 {ELEMENT_LIST =[45] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_45_present} }
+  site_46 {ELEMENT_LIST =[46] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_46_present} }
+  site_47 {ELEMENT_LIST =[47] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_47_present} }
+  site_48 {ELEMENT_LIST =[48] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_48_present} }
+  site_49 {ELEMENT_LIST =[49] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_49_present} }
+  site_50 {ELEMENT_LIST =[50] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_50_present} }
+  site_51 {ELEMENT_LIST =[51] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_51_present} }
+  site_52 {ELEMENT_LIST =[52] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_52_present} }
+  site_53 {ELEMENT_LIST =[53] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_53_present} }
+  site_54 {ELEMENT_LIST =[54] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_54_present} }
+  site_55 {ELEMENT_LIST =[55] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_55_present} }
+  site_56 {ELEMENT_LIST =[56] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_56_present} }
+  site_57 {ELEMENT_LIST =[57] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_57_present} }
+  site_58 {ELEMENT_LIST =[58] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_58_present} }
+  site_59 {ELEMENT_LIST =[59] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_59_present} }
+  site_60 {ELEMENT_LIST =[60] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_60_present} }
+  site_61 {ELEMENT_LIST =[61] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_61_present} }
+  site_62 {ELEMENT_LIST =[62] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_62_present} }
+  site_63 {ELEMENT_LIST =[63] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_63_present} }
+  site_64 {ELEMENT_LIST =[64] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_64_present} }
+  site_65 {ELEMENT_LIST =[65] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_65_present} }
+  site_66 {ELEMENT_LIST =[66] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_66_present} }
+  site_67 {ELEMENT_LIST =[67] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_67_present} }
+  site_68 {ELEMENT_LIST =[68] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_68_present} }
+  site_69 {ELEMENT_LIST =[69] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_69_present} }
+  site_70 {ELEMENT_LIST =[70] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_70_present} }
+  site_71 {ELEMENT_LIST =[71] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_71_present} }
+  site_72 {ELEMENT_LIST =[72] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_72_present} }
+  site_73 {ELEMENT_LIST =[73] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_73_present} }
+  site_74 {ELEMENT_LIST =[74] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_74_present} }
+  site_75 {ELEMENT_LIST =[75] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_75_present} }
+  site_76 {ELEMENT_LIST =[76] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_76_present} }
+  site_77 {ELEMENT_LIST =[77] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_77_present} }
+  site_78 {ELEMENT_LIST =[78] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_78_present} }
+  site_79 {ELEMENT_LIST =[79] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_79_present} }
+  site_80 {ELEMENT_LIST =[80] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_80_present} }
+  site_81 {ELEMENT_LIST =[81] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_81_present} }
+  site_82 {ELEMENT_LIST =[82] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_82_present} }
+  site_83 {ELEMENT_LIST =[83] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_83_present} }
+  site_84 {ELEMENT_LIST =[84] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_84_present} }
+  site_85 {ELEMENT_LIST =[85] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_85_present} }
+  site_86 {ELEMENT_LIST =[86] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_86_present} }
+  site_87 {ELEMENT_LIST =[87] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_87_present} }
+  site_88 {ELEMENT_LIST =[88] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_88_present} }
+  site_89 {ELEMENT_LIST =[89] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_89_present} }
+  site_90 {ELEMENT_LIST =[90] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_90_present} }
+  site_91 {ELEMENT_LIST =[91] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_91_present} }
+  site_92 {ELEMENT_LIST =[92] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_92_present} }
+  site_93 {ELEMENT_LIST =[93] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_93_present} }
+  site_94 {ELEMENT_LIST =[94] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_94_present} }
+  site_95 {ELEMENT_LIST =[95] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_95_present} }
+  site_96 {ELEMENT_LIST =[96] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_96_present} }
+  site_97 {ELEMENT_LIST =[97] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_97_present} }
+  site_98 {ELEMENT_LIST =[98] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_98_present} }
+  site_99 {ELEMENT_LIST =[99] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_99_present} }
+  site_100 {ELEMENT_LIST =[100] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_100_present} }
+  site_101 {ELEMENT_LIST =[101] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_101_present} }
+  site_102 {ELEMENT_LIST =[102] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_102_present} }
+  site_103 {ELEMENT_LIST =[103] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_103_present} }
+  site_104 {ELEMENT_LIST =[104] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_104_present} }
+  site_105 {ELEMENT_LIST =[105] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_105_present} }
+  site_106 {ELEMENT_LIST =[106] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_106_present} }
+  site_107 {ELEMENT_LIST =[107] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_107_present} }
+  site_108 {ELEMENT_LIST =[108] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_108_present} }
+  site_109 {ELEMENT_LIST =[109] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_109_present} }
+  site_110 {ELEMENT_LIST =[110] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_110_present} }
+  site_111 {ELEMENT_LIST =[111] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_111_present} }
+  site_112 {ELEMENT_LIST =[112] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_112_present} }
+  site_113 {ELEMENT_LIST =[113] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_113_present} }
+  site_114 {ELEMENT_LIST =[114] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_114_present} }
+  site_115 {ELEMENT_LIST =[115] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_115_present} }
+  site_116 {ELEMENT_LIST =[116] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_116_present} }
+  site_117 {ELEMENT_LIST =[117] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_117_present} }
+  site_118 {ELEMENT_LIST =[118] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_118_present} }
+  site_119 {ELEMENT_LIST =[119] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_119_present} }
+  site_120 {ELEMENT_LIST =[120] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_120_present} }
+  site_121 {ELEMENT_LIST =[121] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_121_present} }
+  site_122 {ELEMENT_LIST =[122] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_122_present} }
+  site_123 {ELEMENT_LIST =[123] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_123_present} }
+  site_124 {ELEMENT_LIST =[124] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_124_present} }
+  site_125 {ELEMENT_LIST =[125] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_125_present} }
+  site_126 {ELEMENT_LIST =[126] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_126_present} }
+  site_127 {ELEMENT_LIST =[127] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_127_present} }
+  site_128 {ELEMENT_LIST =[128] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_128_present} }
+  site_129 {ELEMENT_LIST =[129] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_129_present} }
+  site_130 {ELEMENT_LIST =[130] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_130_present} }
+  site_131 {ELEMENT_LIST =[131] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_131_present} }
+  site_132 {ELEMENT_LIST =[132] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_132_present} }
+  site_133 {ELEMENT_LIST =[133] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_133_present} }
+  site_134 {ELEMENT_LIST =[134] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_134_present} }
+  site_135 {ELEMENT_LIST =[135] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_135_present} }
+  site_136 {ELEMENT_LIST =[136] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_136_present} }
+  site_137 {ELEMENT_LIST =[137] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_137_present} }
+  site_138 {ELEMENT_LIST =[138] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_138_present} }
+  site_139 {ELEMENT_LIST =[139] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_139_present} }
+  site_140 {ELEMENT_LIST =[140] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_140_present} }
+  site_141 {ELEMENT_LIST =[141] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_141_present} }
+  site_142 {ELEMENT_LIST =[142] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_142_present} }
+  site_143 {ELEMENT_LIST =[143] MOLECULE_NUMBER {unbound_sensor_Y' = sensor_Y_143_present} }
+  sites_all {ELEMENT_LIST = [ALL_ELEMENTS] }
+  
+  
+		
+
+	}
+}
