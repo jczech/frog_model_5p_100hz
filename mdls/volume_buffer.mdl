@@ -12,10 +12,5 @@ buffer OBJECT {
     MOLECULE = unbound_fixed_buffer
     CONCENTRATION = fixed_buffer_concentration
   }
-  release2 RELEASE_SITE {
-    SHAPE = buffer.buffer_box[whole_box]
-    MOLECULE = unbound_mobile_buffer
-    CONCENTRATION = mobile_buffer_concentration
-  }
 }
 

@@ -19,12 +19,6 @@ fixed_buffer_onrate = 1E8                      /* onrate for fixed ca buffer sit
 fixed_buffer_offrate = 10E3                    /* offrate for fixed ca buffer sites */
 fixed_buffer_concentration = 0.0020             /* concentration of fixed buffer in Molar */ 
 
-mobile_buffer_onrate = 1E8		       /* onrate for mobile ca buffer molecules */
-mobile_buffer_offrate = 10E3                   /* offrate for mobile ca buffer molecules */
-mobile_buffer_concentration = 0.00          /* concentration of mobile buffer in Molar */
-mobile_buffer_diff_const = 6E-7	               /* mobile buffer diffusion constant */                                                                                             
-/*mobile_buffer_diff_const = 0*/
-
 time_step = 1e-8                               /* simulation time step */
 maximum_time_step = time_step*1                /* maximum simulation time step - set equal to time step for max accuracy */
 reaction_output_time_step = 5e-7               /* interval between reaction data output data points */
